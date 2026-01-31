@@ -1,6 +1,17 @@
 {
     "devices": [
         {
+            "codename": "tetris",
+            "codename_alt": "tetris",
+            "vendor": "Nothing",
+            "model": "CMF Phone (1)",
+            "maintainer_name": "schoosh",
+            "frame": null,
+            "active": true,
+            "last_updated": timestamp,
+            "version": 16
+        },
+        {
             "codename": "G",
             "codename_alt": "G",
             "vendor": "10or",

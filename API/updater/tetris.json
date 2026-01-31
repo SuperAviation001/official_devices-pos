@@ -1,0 +1,12 @@
+{
+    "response": [
+        {
+            "datetime": "1763774878",
+            "filename": "zipname",
+            "id": "shasum",
+            "size": buildsize,
+            "url": "https://sourceforge.net/projects/schoosh-roms/files/PixelOS/tetris/A16/latest/zipname",
+            "version": "16"
+        }
+    ]
+}

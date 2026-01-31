@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "therealschoosh",
+            "telegram": "therealschoosh",
+            "github": "SuperAviation001"
+        }
+    ],
+    "model": "Nothing CMF Phone (1)",
+    "vendor": "Nothing",
+    "codename": "tetris",
+    "codename_alt": "tetris",
+    "active": true,
+    "version": "sixteen",
+    "release": "whenever-i-feel-like-it",
+    "last_updated": "DD MM YYYY",
+    "download_link": "https://sourceforge.net/projects/schoosh-roms/files/PixelOS/tetris/A16/zipname",
+    "archive": "https://sourceforge.net/projects/schoosh-roms/files/PixelOS/tetris/",
+    "xda": "https://xdaforums.com/t/rom-15-unofficial-pixelos-android-15-aosp-stable-13-04-2025.4730771/"
+}
